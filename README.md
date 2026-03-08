@@ -1,7 +1,7 @@
 ## olá, mundo! 
-sou **mateus vilasboas**, desenvolvedor python 🙂🐍
+sou **mateus vilasboas**, desenvolvedor backend python 🙂🐍
 ### minha stack
-- FastAPI (o que eu mais gosto :p)
+- FastAPI (framework que eu mais gosto :p)
 - Django
 - Flask
 - Postgres
