@@ -1,15 +1,15 @@
 ## olá, mundo! 
-sou **mateus vilasboas**, desenvolvedor backend python 🙂🐍
-### minha stack
-- FastAPI (framework que eu mais gosto :p)
+i am **mateus vilasboas**, :brazil: brazilian, python backend developer 🐍🙂
+### my stack
+- FastAPI (my fav framework :p)
 - Django
 - Flask
 - Postgres
 - Docker
 - Linux
 ---
-- 👨‍💻 atualmente estudando [arquitetura de microsserviços](https://github.com/mateosvilasboas/microservices-boilerplate)
-- 🎲 jogador de RPG e 🖌️ ilustrador
-- pai de gato 🐈 e de cachorro 🐕
+- 👨‍💻 currently studying [microservices architeture](https://github.com/mateosvilasboas/microservices-boilerplate) and expanding my knowlegde in DDD
+- 🎲 roleplaying game gamemaster and 🖌️ digital artist
+- father of cats 🐈 and dogs 🐕
 
 #### <a href="https://www.linkedin.com/in/mateus-campos-vilasboas-dantas/">linkedin</a>
