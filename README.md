@@ -8,7 +8,7 @@ i am **mateus vilasboas**, :brazil: brazilian, python backend developer 🐍🙂
 - Docker
 - Linux
 ---
-- 👨‍💻 currently studying [microservices architeture](https://github.com/mateosvilasboas/microservices-boilerplate) and expanding my knowlegde in DDD
+- 👨‍💻 currently studying Domain Driven Design and microservices
 - 🎲 roleplaying game gamemaster and 🖌️ digital artist
 - father of cats 🐈 and dogs 🐕
 
